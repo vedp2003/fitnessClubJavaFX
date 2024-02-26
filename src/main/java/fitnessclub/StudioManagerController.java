@@ -1,4 +1,4 @@
-package fitnessclub.fitnessclubjavafx;
+package fitnessclub;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

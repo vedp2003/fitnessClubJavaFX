@@ -3,6 +3,6 @@ module fitnessclub.fitnessclubjavafx {
     requires javafx.fxml;
 
 
-    opens fitnessclub.fitnessclubjavafx to javafx.fxml;
-    exports fitnessclub.fitnessclubjavafx;
+    opens fitnessclub to javafx.fxml;
+    exports fitnessclub;
 }
